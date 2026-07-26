@@ -4,9 +4,9 @@ const BUSINESS = {
   whatsapp: "573164607570", // Cambia aquí si el WhatsApp es diferente al teléfono publicado
   phone: "316 4607570",
   email: "",
-  instagram: "",
-  facebook: "",
-  tiktok: "",
+  instagram: "https://www.instagram.com/blondpeluqueria/",
+  facebook: "https://www.facebook.com/Blondgroup/",
+  tiktok: "https://www.tiktok.com/@blondpeluqueria",
   maps: "https://www.google.com/maps/search/?api=1&query=Cl.+9+%2344-56+Loc+2B,+Nueva+Tequendama,+Cali,+Valle+del+Cauca"
 };
 const categories = {
